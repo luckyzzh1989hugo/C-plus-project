@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  Utilities.cpp
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+D:\F\GraduateStudy\SyracuseU\classes_notes\CIS687\project3\ParallelDependencyAnalysis\x64\Debug\Utilities.exe : fatal error LNK1120: 1 unresolved externals
