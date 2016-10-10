@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  Tokenizer.cpp
+  SemiExp.cpp
+  ScopeStack.cpp
+  Parser.cpp
+  ConfigureParser.cpp
+  ActionsAndRules.cpp
+  Generating Code...
+  Parser.vcxproj -> D:\F\GraduateStudy\SyracuseU\classes_notes\CIS687\project3\ParallelDependencyAnalysis\Debug\Parser.lib
